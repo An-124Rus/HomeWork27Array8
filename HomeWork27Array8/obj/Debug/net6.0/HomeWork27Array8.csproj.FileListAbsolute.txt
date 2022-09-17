@@ -1,0 +1,15 @@
+D:\Projects CS\HomeWork27Array8\HomeWork27Array8\bin\Debug\net6.0\HomeWork27Array8.exe
+D:\Projects CS\HomeWork27Array8\HomeWork27Array8\bin\Debug\net6.0\HomeWork27Array8.deps.json
+D:\Projects CS\HomeWork27Array8\HomeWork27Array8\bin\Debug\net6.0\HomeWork27Array8.runtimeconfig.json
+D:\Projects CS\HomeWork27Array8\HomeWork27Array8\bin\Debug\net6.0\HomeWork27Array8.dll
+D:\Projects CS\HomeWork27Array8\HomeWork27Array8\bin\Debug\net6.0\HomeWork27Array8.pdb
+D:\Projects CS\HomeWork27Array8\HomeWork27Array8\obj\Debug\net6.0\HomeWork27Array8.csproj.AssemblyReference.cache
+D:\Projects CS\HomeWork27Array8\HomeWork27Array8\obj\Debug\net6.0\HomeWork27Array8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects CS\HomeWork27Array8\HomeWork27Array8\obj\Debug\net6.0\HomeWork27Array8.AssemblyInfoInputs.cache
+D:\Projects CS\HomeWork27Array8\HomeWork27Array8\obj\Debug\net6.0\HomeWork27Array8.AssemblyInfo.cs
+D:\Projects CS\HomeWork27Array8\HomeWork27Array8\obj\Debug\net6.0\HomeWork27Array8.csproj.CoreCompileInputs.cache
+D:\Projects CS\HomeWork27Array8\HomeWork27Array8\obj\Debug\net6.0\HomeWork27Array8.dll
+D:\Projects CS\HomeWork27Array8\HomeWork27Array8\obj\Debug\net6.0\refint\HomeWork27Array8.dll
+D:\Projects CS\HomeWork27Array8\HomeWork27Array8\obj\Debug\net6.0\HomeWork27Array8.pdb
+D:\Projects CS\HomeWork27Array8\HomeWork27Array8\obj\Debug\net6.0\HomeWork27Array8.genruntimeconfig.cache
+D:\Projects CS\HomeWork27Array8\HomeWork27Array8\obj\Debug\net6.0\ref\HomeWork27Array8.dll
